@@ -1,0 +1,6 @@
+   3 git init
+   4 git add hello_world.txt
+   5 git commit -m"初めてのコミット：Helloを追加”
+   6 git add hello_world.txt
+   7 git commit -m"2度目のコミット：こんにちは、世界！を追加”
+   8 git log --oneline
